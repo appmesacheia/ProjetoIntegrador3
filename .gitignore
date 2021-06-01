@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/.vs
+/src/MesaCheia.Domain/bin
+/src/MesaCheia.Domain/obj
+/src/MesaCheia.Test/bin
+/src/MesaCheia.Test/obj
